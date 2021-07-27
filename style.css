@@ -1,0 +1,81 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  padding-top: 15px;
+  padding-bottom: 50px;
+  }
+
+#logo {
+   width: 200px;
+   padding-top: 80px;
+   padding-bottom: 0px;
+ }
+
+.titolo {
+   color: #3CF200;
+   font-size: 25px;
+   margin: 1px;
+ }
+
+ .sfondo {
+    background: rgba(6, 0, 0, 0.5);
+    border-radius: 15px;
+    margin-left: 280px;
+    margin-right:280px;
+  }
+
+ .Menu {
+    background-color: #3CF200;
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px ;
+  }
+
+  .freccia:before {
+    content: "\21A6";
+   }
+
+  .sezioni {
+     display: inline-block;
+     text-align: left;
+     margin-left: 0px;
+     margin-right: 140px;
+     color: white;
+   }
+
+   .rettangolo1 {
+  background-color: #fcba8e;
+  border-radius:3px;
+  padding: 13px;
+  width: 200px;
+  display: inline-block;
+    }
+
+    .rettangolo2 {
+   background-color: #20b341;
+   border-radius:3px;
+   padding: 13px;
+   width: 600px;
+   display: inline-block;
+     }
+
+     .rettangolo3 {
+    background-color: #bb2420;
+    border-radius:3px;
+    padding: 13px;
+    width: 100px;
+    display: inline-block;
+    margin-bottom: 50px;
+      }
+
+  .bold {
+     font-weight: bold;
+  }
+
+  div.spazio {
+     margin-top: 20px;
+   }
